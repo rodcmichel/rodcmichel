@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodcmichel
 - 👀 I’m interested in data vizualiation and data analysis projects
-- 🌱 I’m currently learning python (web scrapping)
-- 💞️ I’m looking to collaborate on economic analysis, cultural and creative data and urban analysis
+- 🌱 I’m currently learning spatial analysis (R)
+- 💞️ I’m looking to collaborate on economic analysis, cultural and creative data and urban-spatial analysis
 - 📫 How to reach me rod.cmichel@gmail.com
 
 <!---
