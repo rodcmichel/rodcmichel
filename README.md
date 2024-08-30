@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodcmichel
-- 👀 I’m interested in data vizualiation and data analysis projects
-- 🌱 I’m currently learning spatial analysis (R)
+- 👀 I’m interested in data analysis and machine learning projects
+- 🌱 I’m currently using/learning NLP projects (Python)
 - 💞️ I’m looking to collaborate on economic analysis, cultural and creative data and urban-spatial analysis
 - 📫 How to reach me rod.cmichel@gmail.com
 
